@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1722106965 source:c:\users\user\codeblocksworkspace\senddatasimulator2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<time.h>
+
